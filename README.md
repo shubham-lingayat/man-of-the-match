@@ -22,4 +22,5 @@ Additional 10 points for 5 wickets or more in innings
 Fielding: 
 10 points each for catch/stumping/run out 
 
-# --- This code is written by Shubham Lingayat ---
+ 
+ ----- This code is written by Shubham Lingayat -----
